@@ -4,7 +4,7 @@ import './App.css';
 import React from "react";
 import WordSearch from "./components/WordSearch";
 
-function App() {
+function App() {  
   return (
     <div className="App">
       <WordSearch />
